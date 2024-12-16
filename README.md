@@ -1,2 +1,3 @@
 # lottery-ticket
-this is mini project
+this is mini project in react
+
